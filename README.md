@@ -7,7 +7,8 @@
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-tauzin/) or [Email](mailto:James.Tauzin@Outlook.com?subject=[GitHub]%20Contact%20James%20Tauzin)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Jtauzin=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtauzin&show_icons=true&theme=radical)
+
 
 <!--
 **Jtauzin/Jtauzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
