@@ -1,13 +1,13 @@
-## Hi there 👋 I am James!
+## Hi there 👋 I am James! I am a CS Student and Android developer skilled in native app development using Kotlin and Java. I also play around a bit in python 😄
 
-- 🔭 I’m currently working on several native Android projects
+🔭 I’m currently working on several native Android projects
 
-- 🌱 I’m currently learning HTML / CSS / JavaScript / React / Mongo DB
+🌱 I’m currently learning HTML / CSS / JavaScript / React / Mongo DB
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-tauzin/) or [Email](mailto:James.Tauzin@Outlook.com?subject=[GitHub]%20Contact%20James%20Tauzin)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-tauzin/) or [Email](mailto:James.Tauzin@Outlook.com?subject=[GitHub]%20Contact%20James%20Tauzin)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jtauzin)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jtauzin)](https://github.com/anuraghazra/github-readme-stats?theme=dark)
 <!--
 **Jtauzin/Jtauzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
