@@ -1,8 +1,8 @@
 ## Hi there 👋 I am James!
 
-<table border="0">
+<table>
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">About me:</b></td>
     <td><b style="font-size:30px"></b></td>
  </tr>
  <tr>
