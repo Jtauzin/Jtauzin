@@ -3,7 +3,7 @@
 <table>
  <tr>
     <td><b style="font-size:30px">About me:</b></td>
-    <td><b style="font-size:30px"></b></td>
+    <td><b style="font-size:30px"></b>Cool Charts:</td>
  </tr>
  <tr>
     <td>I am a CS Student and Android developer skilled in native app development using Kotlin and Java. I also play around a bit in python 😄
