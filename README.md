@@ -8,7 +8,7 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-tauzin/) or [Email](mailto:James.Tauzin@Outlook.com?subject=[GitHub]%20Contact%20James%20Tauzin)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtauzin&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtauzin&layout=compact&theme=tokyonight)\pagebreak
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtauzin&hide=stars,prs,issues,contribs&show_icons=true&theme=tokyonight)
 
 
