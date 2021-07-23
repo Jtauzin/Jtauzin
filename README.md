@@ -1,4 +1,4 @@
-## Hi there 👋 I am James!
+## Hi there :metal: I am James!
 
 <table>
  <tr>
