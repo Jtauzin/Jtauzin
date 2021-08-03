@@ -6,12 +6,13 @@
     <td><b style="font-size:30px"></b>Cool Charts:</td>
  </tr>
  <tr>
-    <td>I am a CS Student and Android developer skilled in native app development using Kotlin and Java. I also play around a bit in python 😄
-     <p>
+    <td>
+    I am a CS Student and Android developer skilled in native app development using Kotlin and Java. I also play around a bit in python 😄
+
 🔭  I’m currently working on several native Android projects
 
 🌱  I’m currently learning HTML / CSS / JavaScript / React / Mongo DB
-     </p>
+
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-tauzin/) or [Email](mailto:James.Tauzin@Outlook.com?subject=[GitHub]%20Contact%20James%20Tauzin)</td>
     <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtauzin&layout=compact&theme=tokyonight)
