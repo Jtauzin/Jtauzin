@@ -7,8 +7,10 @@
  </tr>
  <tr>
     <td>
-    I am a CS Student and Android developer skilled in native app development
-     using Kotlin and Java. I also play around a bit in python 😄
+    I am a CS Student and Android developer skilled in native
+     app development using Kotlin and Java. I also play
+     around a bit in python 😄
+     
 
 🔭  I’m currently working on several native Android projects
 
