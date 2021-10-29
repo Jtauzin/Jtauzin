@@ -6,7 +6,7 @@
     <td><b style="font-size:30px"></b>Cool Charts:</td>
  </tr>
  <tr>
-    <td>I am a CS Student and Android developer skilled in native app development using Kotlin and Java. I also play around a bit in python 😄
+    <td>I work as an Android developer and am skilled in native app development using Kotlin and Java. I also play around a bit in python and am currently a CS student at Oregon State Universities E-Campus 😄
 
  </br>🔭 I’m currently working on several native Android projects
 
