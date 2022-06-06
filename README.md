@@ -8,7 +8,7 @@
  <tr>
     <td>I work as an Android developer in Fintech and am skilled in native Android app development using Kotlin and Java. I also play around a bit in python and am currently a CS student at Oregon State University's E-Campus 😄
 
- </br>🔭 I’m currently working on finishing my game that is currently in beta. It should be launching here in March! Check it out [by clicking here!](https://play.google.com/store/apps/details?id=com.bronzeswordstudios.glorpythespacething)
+ </br>🔭 I’m currently working on finishing my game that is currently in beta. It should be launching this summer! Check it out [by clicking here!](https://play.google.com/store/apps/details?id=com.bronzeswordstudios.glorpythespacething)
 
 🌱 I’m currently learning more database concepts
 
