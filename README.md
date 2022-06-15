@@ -10,7 +10,7 @@
 
  </br>🔭 I’m currently working on finishing my game that is currently in beta. It should be launching this summer! Check it out [by clicking here!](https://play.google.com/store/apps/details?id=com.bronzeswordstudios.glorpythespacething)
 
-🌱 I’m currently learning more database concepts
+🌱 I’m currently updating my kotlin skillset by reviewing modern libraries and practices!
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-tauzin/) or [Email](mailto:James.Tauzin@Outlook.com?subject=[GitHub]%20Contact%20James%20Tauzin)</td>
     <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtauzin&layout=compact&theme=tokyonight)
