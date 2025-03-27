@@ -6,11 +6,9 @@
     <td><b style="font-size:30px"></b>Cool Charts:</td>
  </tr>
  <tr>
-    <td>I work as an Android developer in Fintech and am skilled in native Android app development using Kotlin and Java. I also play around a bit in python and am currently a CS student at Oregon State University's E-Campus 😄
+    <td>I work as a software engineer in the games industry.
 
- </br>🔭 I’m currently working on finishing my game that is currently in beta. It should be launching this summer! All that is left is updating the store page with more recent screenshots and a video. Check it out [by clicking here!](https://play.google.com/store/apps/details?id=com.bronzeswordstudios.glorpythespacething)
-
-🌱 I’m currently updating my kotlin skillset by reviewing modern libraries and practices!
+ </br>🔭 I am currently working on a few private projects in c++ and graphics to help expand my knoweldge of low level and multi-threaded systems. Unfortunately due to my work, there isnt much there I can show publicly here.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-tauzin/) or [Email](mailto:James.Tauzin@Outlook.com?subject=[GitHub]%20Contact%20James%20Tauzin)</td>
     <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtauzin&layout=compact&theme=tokyonight)
